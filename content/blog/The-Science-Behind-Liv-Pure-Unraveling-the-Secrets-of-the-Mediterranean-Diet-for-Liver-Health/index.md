@@ -1,4 +1,8 @@
-Liv Pure is a dietary supplement that claims to promote liver health through the use of natural ingredients. The supplement is based on the principles of the Mediterranean diet, which is known for its health-promoting properties.
+---
+title: The Science Behind Liv Pure: Unraveling the Secrets of the Mediterranean Diet for Liver Health
+date: "2015-05-01T22:12:03.284Z"
+description: "Liv Pure is a dietary supplement that claims to promote liver health through the use of natural ingredients. The supplement is based on the principles of the Mediterranean diet, which is known for its health-promoting properties."
+---
 
 The Mediterranean diet is rich in fruits, vegetables, whole grains, and healthy fats such as olive oil and nuts. Studies have shown that this type of diet can improve liver health by reducing inflammation and oxidative stress.
 
