@@ -12,7 +12,7 @@ module.exports = {
     title: `Soften Stress`,
     author: {
       name: `Ian Confeego`,
-      summary: `Ian Confeego is a multifaceted individual a teacher, café owner, and legendary masquerade ball host. With a deep-seated passion for the arts and community, he consistently endeavors to help people build a stress-free world, championing a harmonious blend of culture and nature.`,
+      summary: `is a multifaceted individual a teacher, café owner, and legendary masquerade ball host. With a deep-seated passion for the arts and community, he consistently endeavors to help people build a stress-free world, championing a harmonious blend of culture and nature.`,
     },
     description: `Helping people build a stress-free world.`,
     siteUrl: `https://softenstress.com/`,
