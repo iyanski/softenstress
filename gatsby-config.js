@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Soften Stress`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Ian Confeego`,
+      summary: `Ian Confeego is a multifaceted individual a teacher, café owner, and legendary masquerade ball host. With a deep-seated passion for the arts and community, he consistently endeavors to help people build a stress-free world, championing a harmonious blend of culture and nature.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Helping people build a stress-free world.`,
+    siteUrl: `https://softenstress.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `softenstress`,
     },
   },
   plugins: [
