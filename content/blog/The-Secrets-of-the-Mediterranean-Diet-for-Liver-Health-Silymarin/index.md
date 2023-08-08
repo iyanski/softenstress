@@ -1,5 +1,5 @@
 ---
-title: "The Secrets of the Mediterranean Diet for Liver Health"
+title: "The Secrets of the Mediterranean Diet for Liver Health: Silymarin"
 date: "2023-08-07T23:10:50.323Z"
 description: "The Mediterranean diet is hailed globally for its myriad health benefits ranging from promoting heart health to aiding weight loss. A lesser-known, but equally important aspect of this diet is its potential for liver purification."
 ---
